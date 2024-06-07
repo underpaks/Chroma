@@ -1,8 +1,6 @@
 
     const ar_wallpaper = `https://raw.githubusercontent.com/underpaks/Chroma/main/Assets/Images/bgb64.txt`;
-    const ar_logo = `https://raw.githubusercontent.com/underpaks/Chroma/main/Assets/Images/lgb64.txt`;
     let imageBase64 = '';
-    let logoBase64 = '';
 
     // Requisição para pegar a imagem wallpaper em Base64
     GM_xmlhttpRequest({
@@ -20,30 +18,6 @@
             console.error('Request failed');
         }
     });
-
-    // Requisição para pegar a imagem logo em Base64
-    GM_xmlhttpRequest({
-        method: "GET",
-        url: ar_logo,
-        onload: function(response) {
-            if (response.status === 200) {
-                logoBase64 = response.responseText.trim();
-                changeLogoImage(logoBase64);
-            } else {
-                console.error('Failed to load logo');
-            }
-        },
-        onerror: function() {
-            console.error('Request failed');
-        }
-    });
-
-    function changeLogoImage(base64Image) {
-        const elements = document.querySelector('.UserInfoContainerStyle-blockForIconTankiOnline img');
-        elements.forEach(element => {
-            element.src = `${base64Image}`;
-        });
-    }
 
     function applyInitialTheme() {
         const tema = `
@@ -302,9 +276,6 @@
                 linear-gradient(360deg, rgba(0, 4, 41, 0.5) 0%, rgba(0, 25, 38, 0) 50%),
                 linear-gradient(rgba(0, 4, 41, 0.5) 0%, rgba(0, 26, 39, 0) 50%)
             `;
-        }
-        if (node.classList && node.classList.contains('UserInfoContainerStyle-blockForIconTankiOnline') && node.tagName === 'IMG') {
-            node.src = `${logoBase64}`;
         }
     }
 
