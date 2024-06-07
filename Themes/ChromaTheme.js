@@ -1,1 +1,314 @@
-const _0x3c27ba=_0x1348;function _0x2b63(){const _0x224fe6=['8762330LWHTRo','6429896CBdonL','chromaref','17842992TesjtH','position','Failed\x20to\x20load\x20image','apply','1429966EQgMkW','overlay,\x20overlay','.UserInfoContainerStyle-blockForIconTankiOnline\x20img','error','forEach','className','bind','nodeType','classList','createTextNode','104315MNbTkN','constructor','styleSheet','backgroundBlendMode','src','68GbUSAB','2OdUlTn','table','3303102guSqka','getElementsByTagName','appendChild','https://raw.githubusercontent.com/underpaks/Chroma/main/Assets/Images/lgb64.txt','observe','GET','createElement','Common-backgroundImageCover','addedNodes','return\x20(function()\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20.Common-entranceGradient\x20{\x20background:\x20none\x20!important\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20body,\x0a\x20\x20\x20\x20\x20\x20\x20\x20.Common-changingBackground,\x0a\x20\x20\x20\x20\x20\x20\x20\x20.LobbyLoaderComponentStyle-container,\x0a\x20\x20\x20\x20\x20\x20\x20\x20.Common-container,\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ClanCreateComponentStyle-blockCreatureClan,\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ClanCommonStyle-content,\x0a\x20\x20\x20\x20\x20\x20\x20\x20.SuccessfulPurchaseComponentStyle-container,\x0a\x20\x20\x20\x20\x20\x20\x20\x20.RankupComponentStyle-wrapper\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-image:\x20radial-gradient(50%\x20100%\x20at\x2050%\x20100%,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transparent,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20rgb(0,\x204,\x2041))\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20gradientAnimation\x2020s\x20linear\x20infinite;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ShopCategoryOfferSectionStyle-innerContainer\x20{background-color:\x20transparent\x20!important},\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20/*menu\x20pause\x20button\x20and\x20overlay*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattlePauseMenuComponentStyle-blackGlobalWrapper\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(0deg,\x20rgba(0,\x204,\x2041,\x200.75)\x200%,\x20rgba(0,\x204,\x2041,\x200.85)\x20100%)\x20center\x20center\x20/\x20cover\x20no-repeat\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattlePauseMenuComponentStyle-selectedMenuRedButton\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20border:\x202px\x20solid\x20rgb(104\x20119\x20255);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*container\x20info\x20user*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.MainScreenComponentStyle-containerPanel\x20{\x20backdrop-filter:\x20blur(5px)}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*battle\x20modes*/\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.DialogContainerComponentStyle-container\x20{background:\x20rgba(0,\x204,\x2041,\x200.5)}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.ScrollingCardsComponentStyle-scrollCard\x20.Common-backgroundImageCover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ScrollingCardsComponentStyle-scrollCard\x20.Common-backgroundImageCover::before\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20content:\x20\x27\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(360deg,\x20rgba(0,\x204,\x2041,\x200.5)\x200%,\x20rgba(0,\x2025,\x2038,\x200)\x2050%),\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20linear-gradient(rgba(0,\x204,\x2041,\x200.5)\x200%,\x20rgba(0,\x2026,\x2039,\x200)\x2050%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20pointer-events:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ScrollingCardsComponentStyle-scrollCard\x20.Common-backgroundImageCover\x20>\x20*\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x202;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20.ScrollingCardsComponentStyle-cardCount\x20{background-color:\x20rgb(255\x2087\x2039)\x20!important}\x0a\x20\x20\x20\x20\x20\x20\x20.ScrollingCardsComponentStyle-scrollCard\x20{min-width:\x2028.5em\x20!important;}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20.MainSectionComponentStyle-transformLinearGradientImgCard\x20{background:\x20linear-gradient(rgb(0\x204\x2041\x20/\x20100%)\x200%,\x20rgb(0\x204\x2041\x20/\x200%)\x20100%)\x20!important;}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20.Common-activeMenu\x20{\x20color:\x20rgb(255\x2087\x2039);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20.Common-menuItemActive\x20{\x20background-color:\x20rgb(255\x2087\x2039);\x20box-shadow:\x20rgb(255\x2087\x2039)\x200em\x200em\x200.375em\x20!important;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20.MenuComponentStyle-mainMenuItem:hover\x20{color:\x20rgb(255\x2087\x2039)\x20!important;}\x0a\x20\x20\x20\x20\x20\x20\x20.Common-backgroundImageCover.modeLimitIcon\x20{width:\x2030em\x20!important;}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20.UsersTableStyle-rowBattleEmpty,\x0a\x20\x20\x20\x20\x20\x20\x20.Common-flexStartAlignStartColumn\x20.UsersTableStyle-row,\x0a\x20\x20\x20\x20\x20\x20\x20.UsersTableStyle-cellName.UsersTableStyle-centerCell.UsersTableStyle-fontCell.UsersTableStyle-rowBattle\x20{border-radius:\x2010px\x20!important;}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20.BattleTabStatisticComponentStyle-redTeamTableContainer\x20table\x20tbody\x20tr\x20{\x0a\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(255\x2051\x2051\x20/\x2015%)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20rgb(255\x2051\x2051)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20.BattleTabStatisticComponentStyle-header\x20{rgb(0\x204\x2041\x20/\x2047%)\x20!important;}\x0a\x20\x20\x20\x20\x20\x20\x20.BattleTabStatisticComponentStyle-containerInsideTeams\x20{background-color:\x20rgb(0\x204\x2041\x20/\x2043%)\x20!important;}\x0a\x20\x20\x20\x20\x20\x20\x20.BattleTabStatisticComponentStyle-blueTeamTableContainer\x20table\x20tbody\x20tr\x20{\x20border:\x201px\x20solid\x20rgb(118,\x20255,\x2051)\x20!important;\x20border-radius:\x2010px\x20!important;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattlePauseMenuComponentStyle-redMenuButton\x20span\x20{\x20color:\x20rgb(104\x20119\x20255)\x20!important;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattlePauseMenuComponentStyle-redMenuButton:hover\x20{background-color:\x20rgb(104\x20119\x20255\x20/\x2015%);}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattleTabStatisticComponentStyle-rowBackGround\x20{background-color:\x20rgb(118\x20255\x2051\x20/\x2013%);}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattleTabStatisticComponentStyle-selectedRowBackGround\x20{background-color:\x20rgb(118\x20255\x2051\x20/\x2033%);}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.SettingsComponentStyle-settingsBlockOptions\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20transparent;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattleModesComponentStyle-blockModesFilter.ProBattleCommonStyleMobile-blockModesFilter\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(0\x204\x2041\x20/\x20100%)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattleModesComponentStyle-button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(0\x204\x2041\x20/\x20100%)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattleModesComponentStyle-search\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(0\x204\x2041\x20/\x20100%)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.NewsComponentStyle-closeArea\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgba(0,\x209,\x2014,\x200.35)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ContextMenuStyle-menu\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(0\x204\x2041\x20/\x20100%)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattleInfoComponentStyle-commonBlockSelectedOptionsSettings\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20backdrop-filter:\x20blur(10px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(0,\x204,\x2041,\x2040%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ProBattlesComponentStyle-mainContainer.Common-flexCenterAlignCenterColumn:nth-child(1)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(0\x204\x2041\x20/\x20100%)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ModalStyle-rootHover\x20.Common-displayFlexColumn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20backdrop-filter:\x20blur(10px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(0,\x204,\x2041,\x2040%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ItemDescriptionComponentStyle-commonBlockModal\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20backdrop-filter:\x20blur(10px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(0,\x204,\x2041,\x2040%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ListItemsComponentStyle-itemsListContainer\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(rgba(0,\x2025,\x2038,\x200)\x200%,\x20rgb(0,\x204,\x2041)\x20100%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.BattlePassLobbyComponentStyle-menuBattlePass\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(0deg,\x20rgba(0,\x2025,\x2038,\x200.25)\x200%,\x20rgb(0\x204\x2041)\x20100%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.QuestsChallengesComponentStyle-containerTiers,\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ChallengePurchaseComponentStyle-blockPurchase\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20transparent\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.PrimaryMenuItemComponentStyle-itemCommonLi:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgba(0,\x209,\x2014,\x200.46);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20backdrop-filter:\x20blur(10px)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.TutorialModalComponentStyle-contentWrapper\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20radial-gradient(192.86%\x20100%\x20at\x200%\x20100%,\x20rgb(14\x2022\x2030)\x200%,\x20rgba(191,\x20213,\x20255,\x200)\x20100%),\x20rgb(0\x209\x2014)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ChatComponentStyle-chatWindow\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(0\x204\x2041\x20/\x2076%)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ChatComponentStyle-channelSelect.Font-bold.Font-normal\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgb(0\x204\x2041\x20/\x2076%)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*chat\x20user\x20nick\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ChatComponentStyle-chatRegularUser\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20rgb(0\x20164\x20255)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ChatComponentStyle-closeArea\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgba(0,\x204,\x2041,\x200.35)\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20.NewsComponentStyle-newsWindow\x20{\x20background:\x20rgb(0\x204\x2041\x20/\x2063%)\x20!important;\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20gradientAnimation\x20{\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x200%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#cc0d0d;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Vermelho\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2010%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#d22700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Laranja\x20mais\x20escuro\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2020%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#de4600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Laranja\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2030%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#cc7e0d;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Amarelo-alaranjado\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2040%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#ccaf0d;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Amarelo\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2050%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#74cc0d;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Verde\x20claro\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2060%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#41cc0d;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Verde\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2070%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#0dcacc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Ciano\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2080%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#0d75cc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Azul\x20claro\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2090%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#0d44cc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Azul\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#5a07b3;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Roxo\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20','__proto__','responseText','relative','info','toString','style','cssText','80400pyftfQ','search','console','contains','exception','UserInfoContainerStyle-blockForIconTankiOnline','backgroundImage','33bzUaEP','tagName','length','warn','prototype','9lexEfk','body','trim','Request\x20failed','Failed\x20to\x20load\x20logo','(((.+)+)+)+$','{}.constructor(\x22return\x20this\x22)(\x20)','https://raw.githubusercontent.com/underpaks/Chroma/main/Assets/Images/bgb64.txt','385NjiXsL'];_0x2b63=function(){return _0x224fe6;};return _0x2b63();}(function(_0x2faa44,_0x5cd968){const _0x3d0925=_0x1348,_0x5de35f=_0x2faa44();while(!![]){try{const _0xab0b5f=parseInt(_0x3d0925(0x1c1))/0x1+-parseInt(_0x3d0925(0x1d1))/0x2*(-parseInt(_0x3d0925(0x1d3))/0x3)+-parseInt(_0x3d0925(0x1d0))/0x4*(-parseInt(_0x3d0925(0x1cb))/0x5)+-parseInt(_0x3d0925(0x1a5))/0x6*(-parseInt(_0x3d0925(0x1b9))/0x7)+parseInt(_0x3d0925(0x1bb))/0x8+-parseInt(_0x3d0925(0x1b1))/0x9*(-parseInt(_0x3d0925(0x1ba))/0xa)+parseInt(_0x3d0925(0x1ac))/0xb*(-parseInt(_0x3d0925(0x1bd))/0xc);if(_0xab0b5f===_0x5cd968)break;else _0x5de35f['push'](_0x5de35f['shift']());}catch(_0x25b107){_0x5de35f['push'](_0x5de35f['shift']());}}}(_0x2b63,0xcd8a5));const _0x3d973f=(function(){let _0x553715=!![];return function(_0x9a4424,_0x4937c7){const _0xcd391b=_0x553715?function(){const _0x248684=_0x1348;if(_0x4937c7){const _0x4caa04=_0x4937c7[_0x248684(0x1c0)](_0x9a4424,arguments);return _0x4937c7=null,_0x4caa04;}}:function(){};return _0x553715=![],_0xcd391b;};}()),_0x5088c2=_0x3d973f(this,function(){const _0x131110=_0x1348;return _0x5088c2[_0x131110(0x1a2)]()[_0x131110(0x1a6)]('(((.+)+)+)+$')['toString']()[_0x131110(0x1cc)](_0x5088c2)[_0x131110(0x1a6)](_0x131110(0x1b6));});_0x5088c2();const _0x21e6b9=(function(){let _0x148159=!![];return function(_0x59894c,_0x544c50){const _0x9d0153=_0x148159?function(){const _0x4ec5dd=_0x1348;if(_0x544c50){const _0x5cdd68=_0x544c50[_0x4ec5dd(0x1c0)](_0x59894c,arguments);return _0x544c50=null,_0x5cdd68;}}:function(){};return _0x148159=![],_0x9d0153;};}()),_0x2ff04f=_0x21e6b9(this,function(){const _0x587279=_0x1348,_0x3f277a=function(){const _0x2f4b17=_0x1348;let _0x498475;try{_0x498475=Function(_0x2f4b17(0x19c)+_0x2f4b17(0x1b7)+');')();}catch(_0xfabef2){_0x498475=window;}return _0x498475;},_0x246991=_0x3f277a(),_0x1dc256=_0x246991[_0x587279(0x1a7)]=_0x246991[_0x587279(0x1a7)]||{},_0x4c6518=['log',_0x587279(0x1af),_0x587279(0x1a1),_0x587279(0x1c4),_0x587279(0x1a9),_0x587279(0x1d2),'trace'];for(let _0x1f5050=0x0;_0x1f5050<_0x4c6518[_0x587279(0x1ae)];_0x1f5050++){const _0x2f46e2=_0x21e6b9[_0x587279(0x1cc)][_0x587279(0x1b0)][_0x587279(0x1c7)](_0x21e6b9),_0x215605=_0x4c6518[_0x1f5050],_0xf24b5d=_0x1dc256[_0x215605]||_0x2f46e2;_0x2f46e2[_0x587279(0x19e)]=_0x21e6b9[_0x587279(0x1c7)](_0x21e6b9),_0x2f46e2[_0x587279(0x1a2)]=_0xf24b5d[_0x587279(0x1a2)][_0x587279(0x1c7)](_0xf24b5d),_0x1dc256[_0x215605]=_0x2f46e2;}});_0x2ff04f();const ar_wallpaper=_0x3c27ba(0x1b8),ar_logo=_0x3c27ba(0x196);let imageBase64='',logoBase64='';function _0x1348(_0x2d5cd1,_0x63ce3c){const _0x3e966a=_0x2b63();return _0x1348=function(_0x2ff04f,_0x21e6b9){_0x2ff04f=_0x2ff04f-0x196;let _0x5a7fb8=_0x3e966a[_0x2ff04f];return _0x5a7fb8;},_0x1348(_0x2d5cd1,_0x63ce3c);}GM_xmlhttpRequest({'method':_0x3c27ba(0x198),'url':ar_wallpaper,'onload':function(_0x2ac948){const _0x56bc0b=_0x3c27ba;_0x2ac948['status']===0xc8?(imageBase64=_0x2ac948[_0x56bc0b(0x19f)][_0x56bc0b(0x1b3)](),applyInitialTheme()):console[_0x56bc0b(0x1c4)](_0x56bc0b(0x1bf));},'onerror':function(){const _0x1a153d=_0x3c27ba;console['error'](_0x1a153d(0x1b4));}}),GM_xmlhttpRequest({'method':_0x3c27ba(0x198),'url':ar_logo,'onload':function(_0x544db3){const _0x56ba36=_0x3c27ba;_0x544db3['status']===0xc8?(logoBase64=_0x544db3[_0x56ba36(0x19f)][_0x56ba36(0x1b3)](),changeLogoImage(logoBase64)):console[_0x56ba36(0x1c4)](_0x56ba36(0x1b5));},'onerror':function(){const _0x4222b3=_0x3c27ba;console[_0x4222b3(0x1c4)](_0x4222b3(0x1b4));}});function changeLogoImage(_0x4b7dd9){const _0x16580d=_0x3c27ba,_0x220b9d=document['querySelector'](_0x16580d(0x1c3));_0x220b9d[_0x16580d(0x1c5)](_0x36d87c=>{const _0x3d697f=_0x16580d;_0x36d87c[_0x3d697f(0x1cf)]=''+_0x4b7dd9;});}function applyInitialTheme(){const _0x3a512d=_0x3c27ba,_0x1e64dc=_0x3a512d(0x19d),_0xdf8e05=document[_0x3a512d(0x1b2)]||document[_0x3a512d(0x1d4)](_0x3a512d(0x1b2))[0x0],_0x24c40b=document[_0x3a512d(0x199)](_0x3a512d(0x1a3));_0x24c40b[_0x3a512d(0x1c6)]=_0x3a512d(0x1bc),_0x24c40b[_0x3a512d(0x1cd)]?_0x24c40b[_0x3a512d(0x1cd)][_0x3a512d(0x1a4)]=_0x1e64dc:_0x24c40b['appendChild'](document[_0x3a512d(0x1ca)](_0x1e64dc)),_0xdf8e05[_0x3a512d(0x1d5)](_0x24c40b);}const observer=new MutationObserver(_0x1f77bb=>{const _0x458fca=_0x3c27ba;_0x1f77bb[_0x458fca(0x1c5)](_0xaea903=>{const _0x44d231=_0x458fca;_0xaea903[_0x44d231(0x19b)][_0x44d231(0x1c5)](_0x2613a5=>{const _0x2f19e4=_0x44d231;_0x2613a5[_0x2f19e4(0x1c8)]===0x1&&applyStylesToNode(_0x2613a5);});});});function applyStylesToNode(_0x19b7a7){const _0x3ec20c=_0x3c27ba;_0x19b7a7[_0x3ec20c(0x1c9)]&&_0x19b7a7[_0x3ec20c(0x1c9)][_0x3ec20c(0x1a8)](_0x3ec20c(0x19a))&&(_0x19b7a7[_0x3ec20c(0x1a3)][_0x3ec20c(0x1be)]=_0x3ec20c(0x1a0),_0x19b7a7[_0x3ec20c(0x1a3)][_0x3ec20c(0x1ce)]=_0x3ec20c(0x1c2),_0x19b7a7[_0x3ec20c(0x1a3)][_0x3ec20c(0x1ab)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20linear-gradient(360deg,\x20rgba(0,\x204,\x2041,\x200.5)\x200%,\x20rgba(0,\x2025,\x2038,\x200)\x2050%),\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20linear-gradient(rgba(0,\x204,\x2041,\x200.5)\x200%,\x20rgba(0,\x2026,\x2039,\x200)\x2050%)\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'),_0x19b7a7[_0x3ec20c(0x1c9)]&&_0x19b7a7[_0x3ec20c(0x1c9)]['contains'](_0x3ec20c(0x1aa))&&_0x19b7a7[_0x3ec20c(0x1ad)]==='IMG'&&(_0x19b7a7[_0x3ec20c(0x1cf)]=''+logoBase64);}observer[_0x3c27ba(0x197)](document[_0x3c27ba(0x1b2)],{'childList':!![],'subtree':!![]});
+
+    const ar_wallpaper = `https://raw.githubusercontent.com/underpaks/Chroma/main/Assets/Images/bgb64.txt`;
+    const ar_logo = `https://raw.githubusercontent.com/underpaks/Chroma/main/Assets/Images/lgb64.txt`;
+    let imageBase64 = '';
+    let logoBase64 = '';
+
+    // Requisição para pegar a imagem wallpaper em Base64
+    GM_xmlhttpRequest({
+        method: "GET",
+        url: ar_wallpaper,
+        onload: function(response) {
+            if (response.status === 200) {
+                imageBase64 = response.responseText.trim();
+                applyInitialTheme();
+            } else {
+                console.error('Failed to load image');
+            }
+        },
+        onerror: function() {
+            console.error('Request failed');
+        }
+    });
+
+    // Requisição para pegar a imagem logo em Base64
+    GM_xmlhttpRequest({
+        method: "GET",
+        url: ar_logo,
+        onload: function(response) {
+            if (response.status === 200) {
+                logoBase64 = response.responseText.trim();
+                changeLogoImage(logoBase64);
+            } else {
+                console.error('Failed to load logo');
+            }
+        },
+        onerror: function() {
+            console.error('Request failed');
+        }
+    });
+
+    function changeLogoImage(base64Image) {
+        const elements = document.querySelector('.UserInfoContainerStyle-blockForIconTankiOnline img');
+        elements.forEach(element => {
+            element.src = `${base64Image}`;
+        });
+    }
+
+    function applyInitialTheme() {
+        const tema = `
+        .Common-entranceGradient { background: none !important }
+        body,
+        .Common-changingBackground,
+        .LobbyLoaderComponentStyle-container,
+        .Common-container,
+        .ClanCreateComponentStyle-blockCreatureClan,
+        .ClanCommonStyle-content,
+        .SuccessfulPurchaseComponentStyle-container,
+        .RankupComponentStyle-wrapper {
+        background-image: radial-gradient(50% 100% at 50% 100%,
+            transparent,
+            rgb(0, 4, 41)) !important;
+        animation: gradientAnimation 20s linear infinite;
+        }
+
+        .ShopCategoryOfferSectionStyle-innerContainer {background-color: transparent !important},
+
+         /*menu pause button and overlay*/
+        .BattlePauseMenuComponentStyle-blackGlobalWrapper {
+        background: linear-gradient(0deg, rgba(0, 4, 41, 0.75) 0%, rgba(0, 4, 41, 0.85) 100%) center center / cover no-repeat !important;
+        }
+
+        .BattlePauseMenuComponentStyle-selectedMenuRedButton {
+        border: 2px solid rgb(104 119 255);
+        }
+
+        /*container info user*/
+        .MainScreenComponentStyle-containerPanel { backdrop-filter: blur(5px)}
+
+        /*battle modes*/
+
+                .DialogContainerComponentStyle-container {background: rgba(0, 4, 41, 0.5)}
+
+             .ScrollingCardsComponentStyle-scrollCard .Common-backgroundImageCover {
+            position: relative;
+        }
+        .ScrollingCardsComponentStyle-scrollCard .Common-backgroundImageCover::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(360deg, rgba(0, 4, 41, 0.5) 0%, rgba(0, 25, 38, 0) 50%),
+                        linear-gradient(rgba(0, 4, 41, 0.5) 0%, rgba(0, 26, 39, 0) 50%);
+            pointer-events: none;
+            z-index: 1;
+        }
+        .ScrollingCardsComponentStyle-scrollCard .Common-backgroundImageCover > * {
+            position: relative;
+            z-index: 2;
+        }
+
+       .ScrollingCardsComponentStyle-cardCount {background-color: rgb(255 87 39) !important}
+       .ScrollingCardsComponentStyle-scrollCard {min-width: 28.5em !important;}
+
+       .MainSectionComponentStyle-transformLinearGradientImgCard {background: linear-gradient(rgb(0 4 41 / 100%) 0%, rgb(0 4 41 / 0%) 100%) !important;}
+
+       .Common-activeMenu { color: rgb(255 87 39); }
+       .Common-menuItemActive { background-color: rgb(255 87 39); box-shadow: rgb(255 87 39) 0em 0em 0.375em !important; }
+       .MenuComponentStyle-mainMenuItem:hover {color: rgb(255 87 39) !important;}
+       .Common-backgroundImageCover.modeLimitIcon {width: 30em !important;}
+
+       .UsersTableStyle-rowBattleEmpty,
+       .Common-flexStartAlignStartColumn .UsersTableStyle-row,
+       .UsersTableStyle-cellName.UsersTableStyle-centerCell.UsersTableStyle-fontCell.UsersTableStyle-rowBattle {border-radius: 10px !important;}
+
+       .BattleTabStatisticComponentStyle-redTeamTableContainer table tbody tr {
+       background-color: rgb(255 51 51 / 15%) !important;
+       border: 1px solid rgb(255 51 51) !important;
+       border-radius: 10px !important;
+       }
+
+       .BattleTabStatisticComponentStyle-header {rgb(0 4 41 / 47%) !important;}
+       .BattleTabStatisticComponentStyle-containerInsideTeams {background-color: rgb(0 4 41 / 43%) !important;}
+       .BattleTabStatisticComponentStyle-blueTeamTableContainer table tbody tr { border: 1px solid rgb(118, 255, 51) !important; border-radius: 10px !important;}
+        .BattlePauseMenuComponentStyle-redMenuButton span { color: rgb(104 119 255) !important; }
+        .BattlePauseMenuComponentStyle-redMenuButton:hover {background-color: rgb(104 119 255 / 15%);}
+
+        .BattleTabStatisticComponentStyle-rowBackGround {background-color: rgb(118 255 51 / 13%);}
+        .BattleTabStatisticComponentStyle-selectedRowBackGround {background-color: rgb(118 255 51 / 33%);}
+
+        .SettingsComponentStyle-settingsBlockOptions {
+            background-color: transparent;
+        }
+
+        .BattleModesComponentStyle-blockModesFilter.ProBattleCommonStyleMobile-blockModesFilter {
+            background-color: rgb(0 4 41 / 100%)
+        }
+
+        .BattleModesComponentStyle-button {
+            background-color: rgb(0 4 41 / 100%)
+        }
+
+        .BattleModesComponentStyle-search {
+            background-color: rgb(0 4 41 / 100%)
+        }
+
+        .NewsComponentStyle-closeArea {
+            background-color: rgba(0, 9, 14, 0.35)
+        }
+
+        .ContextMenuStyle-menu {
+            background-color: rgb(0 4 41 / 100%)
+        }
+
+        .BattleInfoComponentStyle-commonBlockSelectedOptionsSettings {
+            backdrop-filter: blur(10px);
+            background-color: rgb(0, 4, 41, 40%);
+        }
+
+        .ProBattlesComponentStyle-mainContainer.Common-flexCenterAlignCenterColumn:nth-child(1) {
+            background-color: rgb(0 4 41 / 100%)
+        }
+
+        .ModalStyle-rootHover .Common-displayFlexColumn {
+            backdrop-filter: blur(10px);
+            background-color: rgb(0, 4, 41, 40%);
+        }
+
+        .ItemDescriptionComponentStyle-commonBlockModal {
+            backdrop-filter: blur(10px);
+            background-color: rgb(0, 4, 41, 40%);
+        }
+
+        .ListItemsComponentStyle-itemsListContainer {
+            background: linear-gradient(rgba(0, 25, 38, 0) 0%, rgb(0, 4, 41) 100%);
+        }
+
+        .BattlePassLobbyComponentStyle-menuBattlePass {
+            background: linear-gradient(0deg, rgba(0, 25, 38, 0.25) 0%, rgb(0 4 41) 100%);
+        }
+
+        .QuestsChallengesComponentStyle-containerTiers,
+        .ChallengePurchaseComponentStyle-blockPurchase {
+            background-color: transparent
+        }
+
+        .PrimaryMenuItemComponentStyle-itemCommonLi:hover {
+            background-color: rgba(0, 9, 14, 0.46);
+            backdrop-filter: blur(10px)
+        }
+
+        .TutorialModalComponentStyle-contentWrapper {
+            background: radial-gradient(192.86% 100% at 0% 100%, rgb(14 22 30) 0%, rgba(191, 213, 255, 0) 100%), rgb(0 9 14)
+        }
+
+        .ChatComponentStyle-chatWindow {
+            background-color: rgb(0 4 41 / 76%)
+        }
+
+        .ChatComponentStyle-channelSelect.Font-bold.Font-normal {
+            background-color: rgb(0 4 41 / 76%)
+        }
+
+        /*chat user nick */
+        .ChatComponentStyle-chatRegularUser {
+            color: rgb(0 164 255)
+        }
+
+        .ChatComponentStyle-closeArea {
+            background-color: rgba(0, 4, 41, 0.35)
+        }
+
+        .NewsComponentStyle-newsWindow { background: rgb(0 4 41 / 63%) !important; }
+
+        @keyframes gradientAnimation {
+
+            0% {
+                background-color: #cc0d0d;
+                /* Vermelho */
+            }
+
+            10% {
+                background-color: #d22700;
+                /* Laranja mais escuro */
+            }
+
+            20% {
+                background-color: #de4600;
+                /* Laranja */
+            }
+
+            30% {
+                background-color: #cc7e0d;
+                /* Amarelo-alaranjado */
+            }
+
+            40% {
+                background-color: #ccaf0d;
+                /* Amarelo */
+            }
+
+            50% {
+                background-color: #74cc0d;
+                /* Verde claro */
+            }
+
+            60% {
+                background-color: #41cc0d;
+                /* Verde */
+            }
+
+            70% {
+                background-color: #0dcacc;
+                /* Ciano */
+            }
+
+            80% {
+                background-color: #0d75cc;
+                /* Azul claro */
+            }
+
+            90% {
+                background-color: #0d44cc;
+                /* Azul */
+            }
+
+            100% {
+                background-color: #5a07b3;
+                /* Roxo */
+            }
+        }
+        `;
+        const body = document.body || document.getElementsByTagName('body')[0],
+              style = document.createElement('style');
+
+        style.className = 'chromaref';
+        if (style.styleSheet) {
+            style.styleSheet.cssText = tema;
+        } else {
+            style.appendChild(document.createTextNode(tema));
+        }
+
+        body.appendChild(style);
+    }
+
+    const observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+            mutation.addedNodes.forEach((node) => {
+                if (node.nodeType === 1) { // Node.ELEMENT_NODE
+                    applyStylesToNode(node);
+                }
+            });
+        });
+    });
+
+    function applyStylesToNode(node) {
+        if (node.classList && node.classList.contains('Common-backgroundImageCover')) {
+            node.style.position = 'relative';
+            node.style.backgroundBlendMode = 'overlay, overlay';
+            node.style.backgroundImage = `
+                linear-gradient(360deg, rgba(0, 4, 41, 0.5) 0%, rgba(0, 25, 38, 0) 50%),
+                linear-gradient(rgba(0, 4, 41, 0.5) 0%, rgba(0, 26, 39, 0) 50%)
+            `;
+        }
+        if (node.classList && node.classList.contains('UserInfoContainerStyle-blockForIconTankiOnline') && node.tagName === 'IMG') {
+            node.src = `${logoBase64}`;
+        }
+    }
+
+    observer.observe(document.body, {
+        childList: true,
+        subtree: true
+    });
